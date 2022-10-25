@@ -14,7 +14,7 @@ app.get('/category',(req, res) => {
     res.send(categories)
 })
 app.get('/',(req, res) => {
-    res.send('ki obosta sobar')
+    res.send('This is the server side of dimond-it assignment')
 })
 
 
