@@ -10,10 +10,15 @@ const categories = require('./data/category.json')
 app.get('/',(req, res) => {
     res.send('This is the server side of dimond-it assignment')
 })
-app.get('/category',(req, res) => {
+app.get('/course',(req, res) => {
     res.send(categories)
 })
-app.get('/category/:id',(req, res) => {
+app.get('/course/:id',(req, res) => {
+    const id = req.params.id;
+    const singleItem = categories.find( p => p.id == id)
+    res.send(singleItem)
+})
+app.get('/premium/:id',(req, res) => {
     const id = req.params.id;
     const singleItem = categories.find( p => p.id == id)
     res.send(singleItem)

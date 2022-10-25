@@ -4,42 +4,48 @@
         "name": "Digital Marketing",
         "image": "https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2021/05/22121232/Untitled-design-391.png",
         "details": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing.",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 45
     },
     {
         "id": "02",
         "name": "Web Development",
         "image": "https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg",
         "details": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 50
     },
     {
         "id": "03",
         "name": "Graphic Design",
         "image": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
         "details": "Graphic design is a profession,[2] applied art and academic discipline[3][4][5] whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives.[6] Graphic design is an interdisciplinary branch of design[1] and of the fine arts. Its practice involves creativity, innovation and lateral thinking using manual or digital tools, where it is usual to use text and graphics to communicate visually.",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 40
     },
     {
         "id": "04",
         "name": "Data Entry",
         "image": "https://res.cloudinary.com/taskrabbit-com/image/upload/f_auto,q_auto/q1gilq8v8yypuipmlk3f",
         "details": "Data entry is the process of digitizing data by entering it into a computer system for organization and management purposes. It is a person-based process[1] and is one of the important basic tasks needed when no machine-readable version of the information is readily available for planned computer-based analysis or processing.",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 35 
     },
     {
         "id": "05",
         "name": "Syber Security",
         "image": "https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/What-is-Cyber-Security.jpg",
         "details": "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 55
     },
     {
         "id": "06",
         "name": "Machin Learning",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZ9HHpbdpHfnOny5fyvWwYy_5v5HC9ac104aTbmjoy6excj9N5f1xfO7KlAZl1-T05dQ&usqp=CAU",
         "details": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.",
-        "rating": 4.5
+        "rating": 4.5,
+        "price": 40
 
     }
     
