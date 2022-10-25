@@ -30,15 +30,15 @@
     {
         "id": "005",
         "name": "Syber Security",
-        "image": "",
-        "details": "",
+        "image": "https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/What-is-Cyber-Security.jpg",
+        "details": "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
         "rating": 4.5
     },
     {
         "id": "006",
         "name": "Machin Learning",
-        "image": "",
-        "details": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZ9HHpbdpHfnOny5fyvWwYy_5v5HC9ac104aTbmjoy6excj9N5f1xfO7KlAZl1-T05dQ&usqp=CAU",
+        "details": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.",
         "rating": 4.5
 
     }
